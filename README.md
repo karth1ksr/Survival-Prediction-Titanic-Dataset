@@ -1,7 +1,7 @@
 # Project: Survival Prediction Using Logistic Regression
 
 ## Files
-- titanic_logistic_regression.ipynb : Jupyter notebook implementing the end-to-end logistic regression pipeline
+- survival_prediction.ipynb : Jupyter notebook implementing the end-to-end logistic regression pipeline
 - Titanic-Dataset.csv                       : Dataset used for survival prediction
 Data Source - Kaggle [Titanic Dataset.csv](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
